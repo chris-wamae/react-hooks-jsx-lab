@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <NavBar />
-      <Home />
+      <Home id="home" style="firebrick" />
       <About />
     </div>
   );
